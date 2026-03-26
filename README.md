@@ -1,6 +1,6 @@
 # RAJLINA-K
 <p align="center">
-  <img src="(https://canva.link/2p943gd30brrdq0)" alt="GitHub Banner" />
+  <img src="[(https://canva.link/2p943gd30brrdq0)]" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm a Python Full-Stack Developer</h1>
