@@ -46,12 +46,13 @@
 ## 💬 Let’s Connect & Collaborate
 🌱 Always learning new technologies  
 🔧 Open to collaborations & impactful projects  
-📫 Email: **jithinsurendran47@gmail.com**
+📫 Email: **rajliabdu@gmail.com**
 
 ---
 
 # 🌐 Connect with Me
-[LinkedIn](YOUR_LINKEDIN_URL)  
+
+📌 **LinkedIn:** *www.linkedin.com/in/rajlina
 [Portfolio](YOUR_PORTFOLIO_URL)  
 
 ---
@@ -79,9 +80,6 @@ JWT • Agora • Sequelize • C Language
 ---
 
 <p align="center">✨ Thanks for visiting my profile! Keep exploring my repositories ✨</p>
-## 📬 Connect With Me  
-📌 **Email:** *rajliabdu@gmail.com*  
-📌 **LinkedIn:** *www.linkedin.com/in/rajlina
 
 *  
 
