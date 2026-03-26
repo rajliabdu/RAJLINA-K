@@ -1,54 +1,84 @@
 # RAJLINA-K
 <p align="center">
-  <img src="[(https://canva.link/2p943gd30brrdq0)]" alt="GitHub Banner" />
+  <img src="YOUR_BANNER_LINK_HERE" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm a Python Full-Stack Developer</h1>
+<h1 align="center">Hi 👋 I'm Rajlina (rajliabdu)</h1>
 
 <p align="center">
-  Passionate about building scalable web applications, clean architecture, and modern backend systems.
+  🚀 Full-Stack Developer | Python Developer | AI & Automation Enthusiast  
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔧 Full-Stack Python Developer (Django / Flask / React)
-- 🛠️ Experienced with REST APIs, SQL, JavaScript, HTML/CSS
-- ☁️ Learning Cloud Deployment (AWS / Render / Railway)
-- 📚 Love solving problems & contributing to open-source
-- 💼 Actively building real-world projects
+## 🔥 About Me
+
+🚀 **Full-Stack Developer | Python & AI Automation Learner**  
+💡 I build scalable, production-ready applications and continuously improve my skills through real-world projects.
 
 ---
 
-## 🧰 Tech Stack
+## 🔹 Core Expertise
+- Building scalable full-stack applications  
+- Designing clean, maintainable architectures (DRY, modular design)  
+- Developing high-performance REST APIs  
+- Creating responsive modern UI/UX  
+- Deploying full-stack apps with modern tools  
+
+---
+
+## 🔹 AI & Automation
+- Building AI-powered apps and workflows  
+- Integrating AI tools into development pipelines  
+- Automating repetitive tasks & business processes  
+- Experimenting with AI agents and intelligent systems  
+
+---
+
+## 🔹 Experience
+- Building real-world, production-grade applications  
+- Working on full-stack projects end-to-end  
+- Contributing to open-source and collaborative projects  
+- Continuous learning and upskilling with modern tech  
+
+---
+
+## 💬 Let’s Connect & Collaborate
+🌱 Always learning new technologies  
+🔧 Open to collaborations & impactful projects  
+📫 Email: **jithinsurendran47@gmail.com**
+
+---
+
+# 🌐 Connect with Me
+[LinkedIn](YOUR_LINKEDIN_URL)  
+[Portfolio](YOUR_PORTFOLIO_URL)  
+
+---
+
+# 🧰 Languages & Tools
+
+### **Backend & Core**
+Python • Django • REST API • FastAPI • Flask • Node.js • Express.js  
 
 ### **Frontend**
-- React, JavaScript, HTML, CSS, Bootstrap, Tailwind
+JavaScript • React • Redux Toolkit • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Material UI  
 
-### **Backend**
-- Python, Django, Flask, REST API, FastAPI (learning)
+### **Databases**
+PostgreSQL • MySQL • SQLite • Redis  
 
-### **Database**
-- MySQL, PostgreSQL, SQLite
+### **Cloud & Deployment**
+AWS • Nginx • Docker • Webpack  
 
-### **Tools & DevOps**
-- Git, GitHub, Docker, Postman  
-- CI/CD basics, VS Code
+### **Tools**
+Git • GitHub • Postman • Swagger API • PyTest • Prettier • Figma  
 
----
-
-## 📂 Featured Projects
-
-### 🔹 **Project Name 1**
-Description of your project and what problem it solves.  
-**Tech used:** Django, REST API, React  
-
-### 🔹 **Project Name 2**
-Short explanation of features.  
-**Tech used:** Flask, SQL, HTML/CSS  
+### **Others**
+JWT • Agora • Sequelize • C Language  
 
 ---
 
+<p align="center">✨ Thanks for visiting my profile! Keep exploring my repositories ✨</p>
 ## 📬 Connect With Me  
 📌 **Email:** *rajliabdu@gmail.com*  
 📌 **LinkedIn:** *www.linkedin.com/in/rajlina
